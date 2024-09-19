@@ -3,7 +3,7 @@
 <hr>
 
 <h2>🔗 Interactive Power BI Dashboard</h2>
-<p><a href="https://app.powerbi.com/view?r=eyJrIjoiYzBmZDgzYjAtNjc3NC00YmQzLWJlZjMtNDIxYmQ1MjVlNWE4IiwidCI6IjY0NDc4ZWMwLWQwMDUtNGU5NS1hMGRiLTg2Y2Q3NjBiYmFhYSJ9" target="_blank"><strong>Link to interactive dashboard</strong></a>.</p>
+<p><a href="https://app.powerbi.com/view?r=eyJrIjoiODRkZDI3YTItNDZhYS00NGI2LWI4ZjAtNzhjMTE2MTkzM2I2IiwidCI6IjY0NDc4ZWMwLWQwMDUtNGU5NS1hMGRiLTg2Y2Q3NjBiYmFhYSJ9" target="_blank"><strong>Link to interactive dashboard</strong></a>.</p>
 
 <hr>
 
