@@ -1,5 +1,12 @@
 # 📊 E-Commerce Sales Dashboard
 
+<hr>
+
+<h2>🔗 Interactive Power BI Dashboard</h2>
+<p><a href="https://app.powerbi.com/view?r=eyJrIjoiYzBmZDgzYjAtNjc3NC00YmQzLWJlZjMtNDIxYmQ1MjVlNWE4IiwidCI6IjY0NDc4ZWMwLWQwMDUtNGU5NS1hMGRiLTg2Y2Q3NjBiYmFhYSJ9" target="_blank"><strong>Link to interactive dashboard</strong></a>.</p>
+
+<hr>
+
 ## 📅 Project Overview
 This interactive **E-Commerce Sales Dashboard** was created using Power BI to visualize and analyze the performance of products, sales, and profits across different regions. The dashboard provides insights into the following key metrics:
 - 🏅 Top 5 Best Selling Products
